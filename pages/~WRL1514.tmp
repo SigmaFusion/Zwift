@@ -19,6 +19,19 @@ w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Revision>116</o:Revision>
+  <o:TotalTime>267</o:TotalTime>
+  <o:Created>2019-09-01T13:39:00Z</o:Created>
+  <o:LastSaved>2019-09-01T17:05:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>1206</o:Words>
+  <o:Characters>6877</o:Characters>
+  <o:Lines>57</o:Lines>
+  <o:Paragraphs>16</o:Paragraphs>
+  <o:CharactersWithSpaces>8067</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
@@ -28,7 +41,6 @@ w\:* {behavior:url(#default#VML);}
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
-  <w:Zoom>110</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
@@ -656,7 +668,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:3 0 0 0 1 0;}
 @font-face
 	{font-family:"Segoe UI";
 	panose-1:2 11 5 2 4 2 4 2 2 3;
@@ -885,8 +897,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:135488032;
-	mso-list-template-ids:1101696400;}
+	{mso-list-id:2754012;
+	mso-list-template-ids:-91081552;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -960,8 +972,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l1
-	{mso-list-id:376391549;
-	mso-list-template-ids:1926628894;}
+	{mso-list-id:1298142597;
+	mso-list-template-ids:-1802437572;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -972,71 +984,72 @@ div.WordSection1
 	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:o;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
 @list l1:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l2
-	{mso-list-id:1298142597;
-	mso-list-template-ids:-1802437572;}
+	{mso-list-id:1768113242;
+	mso-list-template-ids:-717581722;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1047,72 +1060,71 @@ div.WordSection1
 	font-family:Symbol;}
 @list l2:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l2:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l3
-	{mso-list-id:1420253384;
-	mso-list-template-ids:1363707936;}
+	{mso-list-id:1769766639;
+	mso-list-template-ids:-819172002;}
 @list l3:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1224,7 +1236,7 @@ ul
 good sprint<o:p></o:p></span></h1>
 
 <p class=MsoNormal><i><span style='mso-fareast-font-family:"Times New Roman"'>Last
-updated Mon 02-Sep-2019</span></i><span style='mso-fareast-font-family:"Times New Roman"'>
+updated Sun 02-Sep-2019</span></i><span style='mso-fareast-font-family:"Times New Roman"'>
 --- s<i style='mso-bidi-font-style:normal'>uggestions, recommendations,
 requests, comments, &#8230; or just that you found it useful -&gt; </i></span><span
 class=SpellE><i style='mso-bidi-font-style:normal'><span style='font-size:10.0pt;
@@ -1241,31 +1253,35 @@ mso-hansi-font-family:"Times New Roman";mso-char-type:symbol-ext;mso-symbol-font
 <br>
 <i>Please note that while I&#8217;m only a weekend warrior cyclist on Zwift by
 accident, other sports where you need maximum neuromuscular speed and explosive
-power required for sprinting are legion, so leveraging the same skills and
-abilities cross-sports is a definite yes in my book. While I had the
-opportunity a long time ago to do some track cycling (with real cyclists) at an
-actual Olympic velodrome for shits and giggles, I would not sprint IRL on the
-road because it&#8217;s too dangerous.<o:p></o:p></i></span></p>
+power are legion, so leveraging the same skills and abilities cross-sports is a
+definite yes. While I had the opportunity a long time ago to do some track
+cycling at an actual Olympic velodrome for shits and giggles, which was fun and
+not that dangerous (yes, I did fall), I would not sprint IRL on the road
+because it&#8217;s too dangerous.<o:p></o:p></i></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>Ah!
 the sprinter, the guy/girl hiding in the bunch all day just to jump out in the
-last few 100 meters to steal the show, get all the glory and win the
-race&#8230;while others are doing all the hard work.<br>
+last few 100 meters to steal the show and get all the glory and win the
+race&#8230;while others are doing all the work.<br>
 </span></b><span style='mso-fareast-font-family:"Times New Roman"'><br>
 Yes, that does exist and has its purpose, however I would advocate that you try
 to be an all-rounder instead with a good combination of FTP, VO2Max, MPA (Max
-Power Available), 5 secs power and endurance abilities. First and foremost as a
-fitness goal, but also to allow you to stick with the <span class=SpellE>rouleurs</span>
-on the flats, the climbers trying to drop you on the climbs, and the sprinters
-snuffing you on the line&#8230;there&#8217;s many ways to skin a cat and to win
-a race! Achieving this is very hard (thus fun) and there are trade-offs, as
-these are linked to different abilities, but you can work on that through
-polar/specific training.<br>
-<br>
-</span><b><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;mso-fareast-font-family:
-"Times New Roman"'>Topics</span></b><span style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+Power Available), 5 secs power and endurance abilities. This will allow you to
+stick with the <span class=SpellE>rouleurs</span> on the flats, the climbers
+trying to drop you on the climbs, and the sprinters snuffing you on the
+line&#8230;there&#8217;s many ways to skin a cat and to win a race! It&#8217;s
+very hard and there are trade-offs, as these are linked to different abilities,
+but you can work on that through polar/specific training.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><br
+style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;
+mso-fareast-font-family:"Times New Roman"'>Topics<o:p></o:p></span></b></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><br>
 I&#8217;m extrapolating from another sport which I&#8217;m (was) very good at,
@@ -1273,24 +1289,26 @@ but it&#8217;s applicable with some adaptation to cycling.<o:p></o:p></span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Equipment setup<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Technique<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Mindset<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Race &#8220;smarts&#8221; and ramp-up<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Training and discipline<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Power (wow! you didn&#8217;t see that one coming)<o:p></o:p></span></li>
 </ul>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><b><span style='font-size:16.0pt;mso-bidi-font-size:13.5pt;
 mso-fareast-font-family:"Times New Roman"'>Equipment setup<o:p></o:p></span></b></p>
@@ -1298,13 +1316,12 @@ mso-fareast-font-family:"Times New Roman"'>Equipment setup<o:p></o:p></span></b>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Captain
-obvious here, but you will be putting a lot of power (thus stress) on your
-hardware and your KNEES. This can go very ugly if you don&#8217;t get this right.
-Indoors, you can&#8217;t realistic sprint on wheel-on trainers (they are all
-shit anyway), get a proper magnetic-based one. I have a few Neo (main one is a
-2 now) and they are all been flawless, except one where the innards at the
-freehub level exploded and the frame cracked (albeit after 2 years of hard
-duty).<o:p></o:p></span></p>
+obvious here, but you will be putting a lot of power (thus stress) on your hardware
+and your KNEES. This can go very ugly if you fuck this up. Indoors you
+can&#8217;t realistic sprint on wheel-on trainers (they are all shit anyway),
+get a proper magnetic-based one. I have a few Neo (main one is a 2 now) and
+they are all been flawless, except one where the innards at the freehub level
+exploded and the frame cracked (albeit after 2 years of hard duty).<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -1315,14 +1332,14 @@ issues<o:p></o:p></span></u></b></p>
 </span></u><span style='mso-fareast-font-family:"Times New Roman"'>Your body is
 part of a mechanical system with the bike, while there are oodles of YouTube
 videos on the subject, you need to invest some time in 1) finding the
-&#8220;right&#8221; bike size 2) saddle position and 3) cleat positions for
-left and right&#8230;they are not the same! for you. I tend to go a tad smaller
+&#8220;right&#8221; bike size 2) saddle position and 3) cleat positions for left
+and right&#8230;they are not the same! for you. I tend to go a tad smaller
 frame size (for a more compact position) combined with a longer stem size. You
 don&#8217;t want your feat arching inward or outward and/or have your knees
 &#8220;bowing&#8221;. It&#8217;s bad for proper flow and you are in for a world
 of pain physically if your position is bad. Parallel and smooth is the way to
-go. I would suggest you video record yourself on the bike from the side, front
-and back to see how well and smooth your body position is.<br>
+go. I would suggest you video record yourself on the bike from the side, front and
+back to see how well and smooth your body position is.<br>
 <br>
 <b><u>Cleat issues<o:p></o:p></u></b></span></p>
 
@@ -1339,12 +1356,12 @@ cassette and ring issues<o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal><u><span style='mso-fareast-font-family:"Times New Roman"'><br>
 </span></u><span style='mso-fareast-font-family:"Times New Roman"'>Explosive
-application of power will chew up these consumables, make sure you check your
-setup *frequently* as the cassette and chain will loosen up, leading to
-unwanted (at the worst possible moment of course) gear jumping or chain
-derailing. Front rings will get totally destroyed and trashed by sprinting; the
-metal actually gets chipped away on the teeth. Look for &#8220;shark&#8221;
-teeth, if you have them, time for a replacement.<br>
+application of power will chew up these consumables, make sure you check your setup
+*frequently* as the cassette and chain will loosen up, leading to unwanted (at
+the worst possible moment of course) gear jumping or chain derailing. Front
+rings will get totally destroyed and trashed by sprinting; the metal actually
+gets chipped away on the teeth. Look for &#8220;shark&#8221; teeth, if you have
+them, time for a replacement.<br>
 <br>
 As a general rule, I replace my chain and big ring every 2000 km. Look for
 promotions and buy in bulk, prepare to destroy equipment, have spares
@@ -1419,42 +1436,42 @@ Overall I will split your effort in 1) the last km 2) the last 400m 3) the last
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Hide in the bunch well below threshold and rested<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Before getting to the last km <b><u>of the entry gate</u></b>,
      drop at the back without losing too much speed, and see how the bunch is
      setup to leverage a possible draft effect for the ramp-up and/or segment.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At 1 km start ramping up gradually.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At 400m mark <b><u>of the entry gate</u></b> you should
      be at least at 40% MPA, so for me around 650W (out of 1600/1700W).<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At the 100m mark <b><u>of the entry gate</u></b>
      it&#8217;s full gas already, as you need to enter the gate at your maximum
      speed. If you have not, you will not be competitive.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>There&#8217;s no last 50m as you are alone against the
      clock.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>The Tempus Fugit sprint is a special case, at it is
      very long. For that one I do the segment at around 1100W constant starting
      50m from the entry gate, which is more or less my ability for a 30 secs
      effort. A good time on that one is between 27 and 30 secs.<o:p></o:p></span></li>
 </ul>
 
-<p class=MsoListParagraph style='text-indent:-.25in;mso-list:l2 level1 lfo3;
+<p class=MsoListParagraph style='text-indent:-.25in;mso-list:l1 level1 lfo3;
 tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
 mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>&middot;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='mso-fareast-font-family:"Times New Roman"'>Here
 again, the <span class=SpellE>Xert</span> fitness signature power curve (in
 secs in the graph) is a great way to plan your effort.<br style='mso-special-character:
@@ -1503,33 +1520,33 @@ against a single opponent? <o:p></o:p></span></p>
 
 <ul type=disc>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>If you are in a bunch and solo, do like everybody else,
      hide and wait, slipstream and outmuscle in the last 50m. Here natural
      abilities and fitness are supreme. If you are racing against a superior
      opponent, you&#8217;re already hosed<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>If you are a total boss and depending on terrain and/or
-     freshness level, you can always try to just outmuscle everybody in the last
-     km. Especially good in hilling terrain, as the draft is less at play, and
-     if you have a helmet PU<o:p></o:p></span></li>
+     freshness level, you can always try to just outmuscle everybody in the
+     last km. Especially good in hilling terrain, as the draft is less at play,
+     and if you have a helmet PU<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>If you have teammates, before getting to the last km <b><u>of
      the finish line</u></b>, you need a &#8220;fixer&#8221; who will make sure
      that the team is well placed and starts ramping up gradually from 40% MPA
      and/or with the flow of the other teams<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At the 400m mark your lead out (strong high FTP <span
      class=SpellE>rouleur</span> are perfect in this role) kicks in, and should
      be at least at 80% MPA and ramping-up to his/her 100% before the last 200m<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At the 200m your lead out is going full gas<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
+     mso-list:l1 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At the 150/100m mark (5 secs) you leverage your lead
      out&#8217;s draft and your extra MPA margin to earn your top dog sprint
      role<o:p></o:p></span></li>
