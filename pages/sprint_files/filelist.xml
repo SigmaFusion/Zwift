@@ -1,7 +1,7 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../sprint.html"/>
- <o:File HRef="item0021.xml"/>
- <o:File HRef="props022.xml"/>
+ <o:File HRef="item0018.xml"/>
+ <o:File HRef="props019.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image005.png"/>
@@ -16,8 +16,5 @@
  <o:File HRef="image014.jpg"/>
  <o:File HRef="image016.png"/>
  <o:File HRef="image015.png"/>
- <o:File HRef="image020.emz"/>
- <o:File HRef="image022.png"/>
- <o:File HRef="oledata.mso"/>
  <o:File HRef="filelist.xml"/>
 </xml>
