@@ -11,7 +11,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="sprint_files/filelist.xml">
 <link rel=Edit-Time-Data href="sprint_files/editdata.mso">
-<link rel=OLE-Object-Data href="sprint_files/oledata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -1252,7 +1251,7 @@ style='mso-fareast-font-family:"Times New Roman"'><br>
 <i>Please note that while I&#8217;m only came to <span class=GramE>cycling</span>
 (and on Zwift) by accident and very late in the game, I was very proficient at
 another sport where you need maximum neuromuscular speed and explosive power,
-so getting there is/was the same for me.<o:p></o:p></i></span></p>
+so getting there is/was the same.<o:p></o:p></i></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -1454,7 +1453,7 @@ style='mso-spacerun:yes'>&nbsp; </span>too much weight to carry around.<br>
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_4" o:spid="_x0000_i1037" type="#_x0000_t75"
+</v:shapetype><v:shape id="Picture_x0020_4" o:spid="_x0000_i1030" type="#_x0000_t75"
  style='width:647.65pt;height:297.4pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=864 height=397
@@ -1472,7 +1471,7 @@ style='mso-fareast-font-family:"Times New Roman"'>The Road Sprinter (typically
 be your objective if you are looking to be a good all-rounder too.<br>
 <br>
 </span><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
- o:spid="_x0000_i1036" type="#_x0000_t75" style='width:648.75pt;height:289.5pt;
+ o:spid="_x0000_i1029" type="#_x0000_t75" style='width:648.75pt;height:289.5pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image008.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=865 height=386
@@ -1491,9 +1490,9 @@ that look super lean and unimpressive, yet lighting fast and can choke you to
 death with a single hand? That should be you. To a large extent, this is
 antagonistic to type I &#8220;slow twitch&#8221; fibers, which are better
 suited for low power endurance. It is extremely <s>difficult</s> impossible to
-be both very good at power and endurance at the same time, but with a lot of
-hard work, you can become very good at both. You will likely have a natural
-preference.<br>
+be both a world-class sprinter and marathon runner at the same time, but with a
+lot of hard work, you can become very good at both. You will likely have a
+natural preference.<br>
 <br>
 <a
 href="https://www.researchgate.net/profile/David_Costill/publication/23006496_Skeletal_enzymes_and_fibre_composition_in_male_and_female_track_athletes/links/5448f9c50cf22b3c14e340f6/Skeletal-enzymes-and-fibre-composition-in-male-and-female-track-athletes.pdf">Skeletal
@@ -1521,14 +1520,14 @@ ramp-up<o:p></o:p></span></b></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Not
-managing this is where good sprinters go to die. While they somewhat share the
-same dynamics, I will make the distinction between clocking a good time for a
-segment to land a green jersey vs. winning a race, as the later involve things
-such as terrain, opponents at play, team dynamics, your real-time fitness level
-at the end of the event and so forth.<br>
+managing this is where good sprinters go to lose a time or a race. While they
+somewhat share the same dynamics, I will make the distinction between clocking
+a good time for a segment to land a green jersey vs. winning a race, as the
+later involve things such as terrain, opponents at play, team dynamics, your
+real-time fitness level at the end of the event and so forth.<br>
 <br>
-Overall I will split your effort in 1) the last two km 2) the last 400m 3) the
-last 200m 4) the last 150/100m<br>
+Overall I will split your effort in 1) the last km 2) the last 400m 3) the last
+200m 4) the last 150/100m<br>
 <br>
 <b><u>Landing a good solo time in a Zwift sprint segment<o:p></o:p></u></b></span></p>
 
@@ -1538,10 +1537,9 @@ last 200m 4) the last 150/100m<br>
      "Times New Roman"'>Hide in the bunch well below threshold and rested<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>Before getting to the last two km <b><u>of the entry
-     gate</u></b>, drop at the back without losing too much speed, and see how
-     the bunch is setup to leverage a possible draft effect for the ramp-up
-     and/or segment<o:p></o:p></span></li>
+     "Times New Roman"'>Before getting to the last km <b><u>of the entry gate</u></b>,
+     drop at the back without losing too much speed, and see how the bunch is
+     setup to leverage a possible draft effect for the ramp-up and/or segment<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At 1 km start ramping up gradually<o:p></o:p></span></li>
@@ -1551,7 +1549,7 @@ last 200m 4) the last 150/100m<br>
      be at least at 40% MPA, so for me around 650W (out of 1600/1700W)<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>At the 150/100m mark <b><u>of the entry gate</u></b>
+     "Times New Roman"'>At the 100m mark <b><u>of the entry gate</u></b>
      it&#8217;s full gas already, as you need to enter the gate at your maximum
      speed. If you have not, you will not be competitive<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -1569,11 +1567,13 @@ last 200m 4) the last 150/100m<br>
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>Here again, the <span class=SpellE>Xert</span> fitness
      signature power curve (in secs in the graph) is a great way to plan your
-     effort<o:p></o:p></span></li>
+     effort<br style='mso-special-character:line-break'>
+     <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+     <![endif]><o:p></o:p></span></li>
 </ul>
 
 <p class=MsoNormal style='margin-left:.25in'><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_1" o:spid="_x0000_i1035" type="#_x0000_t75" style='width:620.25pt;
+ id="Picture_x0020_1" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:620.25pt;
  height:191.65pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=827 height=256
@@ -1596,15 +1596,15 @@ bunch or against a single opponent? <o:p></o:p></span></p>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>If you are in a bunch and solo, you will likely do like
-     everybody else, hide, wait, slipstream and outmuscle in the last 200 or so
-     meters. Here natural abilities and fitness are supreme. If you are racing
-     against a superior opponent, you&#8217;re already SOL<o:p></o:p></span></li>
+     everybody else, hide and wait, slipstream and outmuscle in the last 200 or
+     so meters. Here natural abilities and fitness are supreme. If you are
+     racing against a superior opponent, you&#8217;re already lost<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
-     "Times New Roman"'>If you are a total boss, and depending on terrain
-     and/or freshness level, you can always try to just outmuscle everybody in
-     the last km. Especially good in hilling punchy terrain, as the draft is
-     less at play, and if you have a helmet PU<o:p></o:p></span></li>
+     "Times New Roman"'>If you are a total boss and depending on terrain and/or
+     freshness level, you can always try to just outmuscle everybody in the
+     last km. Especially good in hilling punchy terrain, as the draft is less
+     at play, and if you have a helmet PU<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>If you have teammates, before getting to the last km <b><u>of
@@ -1624,7 +1624,8 @@ bunch or against a single opponent? <o:p></o:p></span></p>
      mso-list:l3 level1 lfo3;tab-stops:list .5in'><span style='mso-fareast-font-family:
      "Times New Roman"'>At the 150/100m mark (5 secs) you leverage your lead
      out&#8217;s draft and your extra MPA margin to earn your top dog sprint
-     role <br style='mso-special-character:line-break'>
+     role &#8211; i.e. sub 2 mins powerhouses<br style='mso-special-character:
+     line-break'>
      <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
      <![endif]><o:p></o:p></span></li>
 </ul>
@@ -1639,13 +1640,9 @@ gain from here. For our purpose here, I will only focus on the &#8220;road
 sprinter&#8221; profile. Like for anything regarding fitness, it needs to be
 targeted, focused and you will need to do reps&#8230;lots of reps. I mean 100s
 if not 1000s of them, lucky you. As for everything else, I don&#8217;t do weird
-shit like single-leg drills, high cadence training or other Harry Potter
-training &#8211; no irrefutable data or studies (without having one 180&deg;
-opposed to it) actually supports all this bro-science BS.<br>
-<br>
-I will never be even remotely competitive on a basketball court or as a swimmer.
-Training, especially over the long run, can help to some extent to get you
-there, but realize that not everybody is made equal.<br>
+shit like single-leg drills, high cadence training or other such miracle Harry
+Potter training &#8211; no irrefutable data or studies (without having one
+180&deg; opposed to it) actually supports all this bro-science BS.<br>
 <br>
 Maximum top end power (MPA) is your 5 secs capacity, while your overall
 sprinting power will be anything from 5 secs to 2 mins. Most people (untrained)
@@ -1653,13 +1650,12 @@ start to roll off dramatically after 15 to 20 secs, so if you want to be a good
 sprinter, you need at least 30 to 40 secs of sustained maximum power. You want
 to win, think 60 secs to weed out &gt; 99% of riders.<br>
 <br>
-If you can pull off a high MPA *and* long high-power sprints, it opens lots of options
-for the win&#8230;if you are not dropped beyond all hope before getting there.
-You can then focus on the actual strategy specific to the race conditions and
-competitors.<br>
+If you can pull off a high MPA *and* long high-power sprints, it opens options
+for the win. You can then focus on the actual strategy specific to the race
+conditions and competitors.<br>
 <br>
 <br>
-<b><u>General training to increase your overall fitness<br>
+<b><u>General training (it&#8217;s the base)<br>
 </u></b><br>
 <b>You want to be a good sprinter? You need to have a good fitness level</b>. I
 have not found anything better and more efficient than running fast 5k series. This
@@ -1677,7 +1673,7 @@ A cheaper/different approach is to use a rowing machine, which contributes to
 your entire body, but also can bulk up your upper body strength. As a cyclist
 or runner you don&#8217;t want/need that though.<br>
 <br>
-<b><u>Peak power intervals to increase your MPA<br>
+<b><u>Peak power intervals (to increase your MPA)<br>
 </u></b><br>
 You will often see me slipping this kind of training in a steady slow burn
 group ride trough sprinting an official segment or punching full gas (you go
@@ -1695,7 +1691,7 @@ doesn&#8217;t make you a faster cyclist, same goes for sprinting. They need to
 be hard and fast.<br>
 <br>
 <span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_5"
- o:spid="_x0000_i1034" type="#_x0000_t75" style='width:646.9pt;height:134.65pt;
+ o:spid="_x0000_i1027" type="#_x0000_t75" style='width:646.9pt;height:134.65pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image010.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=863 height=180
@@ -1729,7 +1725,7 @@ limits. If possible, practice ramping-up through your gears while increasing
 the cadence.<br>
 <br>
 </span><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
- o:spid="_x0000_i1033" type="#_x0000_t75" style='width:647.65pt;height:151.9pt;
+ o:spid="_x0000_i1026" type="#_x0000_t75" style='width:647.65pt;height:151.9pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image013.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=864 height=203
@@ -1744,46 +1740,16 @@ climb. A typical example after a 60 mins slow group ride done through an
 event as a warm-up and hammer the KOM proper.<br>
 <br>
 <span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8"
- o:spid="_x0000_i1032" type="#_x0000_t75" style='width:646.9pt;height:134.65pt;
+ o:spid="_x0000_i1025" type="#_x0000_t75" style='width:646.9pt;height:134.65pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="sprint_files/image016.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=863 height=180
-src="sprint_files/image018.png" v:shapes="Picture_x0020_8"><![endif]></span><br
-style='mso-special-character:line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><o:p></o:p></span></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><u><span
-style='mso-fareast-font-family:"Times New Roman"'>Zwift Structured<br>
-</span></u></b><span style='mso-fareast-font-family:"Times New Roman"'><br>
-More specialized training that you can load directly in Zwift&#8230;these are
-hard. </span><span style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:
-"Times New Roman";mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:
-"Times New Roman";mso-char-type:symbol-ext;mso-symbol-font-family:"Segoe UI Emoji"'>&#128522;</span><span
-style='mso-fareast-font-family:"Times New Roman"'><br>
-<br>
-<!--[if gte vml 1]><v:shape id="_x0000_i1031" type="#_x0000_t75" style='width:74.25pt;
- height:49.5pt' o:ole="">
- <v:imagedata src="sprint_files/image019.emz" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=99 height=66
-src="sprint_files/image020.png" v:shapes="_x0000_i1031"><![endif]><!--[if gte mso 9]><xml>
- <o:OLEObject Type="Embed" ProgID="Package" ShapeID="_x0000_i1031"
-  DrawAspect="Icon" ObjectID="_1629021730">
- </o:OLEObject>
-</xml><![endif]--><br>
-<br>
-<br>
+src="sprint_files/image018.png" v:shapes="Picture_x0020_8"><![endif]></span><br>
 <br>
 <br>
 <br style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
-
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
-style='mso-fareast-font-family:"Times New Roman"'><br style='mso-special-character:
-line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><b><u><o:p></o:p></u></b></span></p>
 
 </div>
 
